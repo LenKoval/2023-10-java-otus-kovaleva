@@ -22,3 +22,4 @@ pluginManagement {
     }
 }
 include("hm01-gradle")
+include("hm02-generics")
